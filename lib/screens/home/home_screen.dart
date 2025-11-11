@@ -7,6 +7,8 @@ import 'package:ssr_solutions/screens/home/home_header_widget.dart';
 import 'package:ssr_solutions/screens/home/home_our_services_widget.dart';
 import 'package:ssr_solutions/screens/home/why_choose_us_widget.dart';
 
+import 'contact_us_widget.dart';
+
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -20,6 +22,7 @@ class HomeScreen extends StatelessWidget {
           
           HomeOurServicesWidget(),
           WhyChooseUsWidget(),
+          ContactUsWidget(),
 
         ],
       ),
