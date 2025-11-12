@@ -1,6 +1,6 @@
 {
-    "name": "ssr_solutions",
-    "short_name": "ssr_solutions",
+    "name": "SSR Solutions",
+    "short_name": "SSR Solutions",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

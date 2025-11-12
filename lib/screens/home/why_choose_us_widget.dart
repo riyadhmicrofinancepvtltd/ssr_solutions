@@ -31,7 +31,7 @@ class WhyChooseUsWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: ColorHelper.lightPrimary,
-      margin: EdgeInsets.symmetric(vertical: DimensHelper.dimens_50),
+      margin: EdgeInsets.only(top: DimensHelper.dimens_50),
       child: Column(
         children: [
           SizedBox(height: DimensHelper.dimens_30,),
