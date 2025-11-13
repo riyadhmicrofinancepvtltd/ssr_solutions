@@ -19855,7 +19855,7 @@ aro(a){var s=0,r=A.P(t.H),q
 var $async$a6N=A.Q(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:q=t.N
 s=2
-return A.U(A.aaA(new A.a6P(A.c([A.aa(["title","Eligibility","description","Refunds will be considered for services not rendered or in case of technical issues resulting in failed transactions."],q,q),A.aa(["title","Process","description","Requests for refunds must be made within 7 days of the transaction date. Please contact our support team with your transaction details."],q,q),A.aa(["title","Timeline","description","Refunds will be processed within 5-7 business days after approval."],q,q),A.aa(["title","Contact","description","For any refund-related queries, please reach out to riyadhmicrofinancepvtltd@gmail.com."],q,q)],t.A7)),a,t.z),$async$a6N)
+return A.U(A.aaA(new A.a6P(A.c([A.aa(["title","Eligibility","description","Refunds will be considered for services not rendered or in case of technical issues resulting in failed transactions."],q,q),A.aa(["title","Process","description","Requests for refunds must be made within 7 days of the transaction date. Please contact our support team with your transaction details."],q,q),A.aa(["title","Timeline","description","Refunds will be processed within 5-7 business days after approval."],q,q),A.aa(["title","Contact","description","For any refund-related queries, please reach out to ssr.solutions2021@gmail.com."],q,q)],t.A7)),a,t.z),$async$a6N)
 case 2:return A.N(null,r)}})
 return A.O($async$a6N,r)},
 a6T(a){return A.arw(a)},
@@ -66401,7 +66401,7 @@ $.aku=A.aV("safeWidth")
 $.akq=A.aV("aspectRatio")
 $.aks=A.aV("pixelRatio")
 $.afr=function(){var s=t.N
-return A.c([A.aa(["title","Email: ","description","riyadhmicrofinancepvtltd@gmail.com"],s,s),A.aa(["title","Phone: ","description","+91 9667504062"],s,s),A.aa(["title","Address: ","description","Shop No 38, Shayam palace, Sector 4 , Gurgaon, Harayana 122001"],s,s)],t.A7)}()
+return A.c([A.aa(["title","Email: ","description","ssr.solutions2021@gmail.com"],s,s),A.aa(["title","Phone: ","description","+91 9667504062"],s,s),A.aa(["title","Address: ","description","Shop No 38, Shayam palace, Sector 4 , Gurgaon, Harayana 122001"],s,s)],t.A7)}()
 $.afX=function(){var s=t.N
 return A.c([A.aa(["title","Security","description","Advanced security measures to protect your transactions."],s,s),A.aa(["title","Efficiency","description","Timely and accurate payment processing."],s,s),A.aa(["title","Convenience","description","User-friendly interface for easy management of payments."],s,s),A.aa(["title","Support","description","Dedicated customer support to assist you every step of the way."],s,s)],t.A7)}()
 $.alZ=A.w(t.S,A.ac("au8"))})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy

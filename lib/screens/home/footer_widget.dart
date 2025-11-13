@@ -11,7 +11,7 @@ import '../../helpers/app_text_style_helper.dart';
 List<Map<String, String>> _contactUsContent = [
   {
     'title': "Email: ",
-    'description': "riyadhmicrofinancepvtltd@gmail.com"
+    'description': "ssr.solutions2021@gmail.com"
   },
   {
     'title': "Phone: ",
@@ -253,7 +253,7 @@ Future<void> _refundPolicy(BuildContext context) async {
     },
     {
       "title": "Contact",
-      "description": "For any refund-related queries, please reach out to riyadhmicrofinancepvtltd@gmail.com."
+      "description": "For any refund-related queries, please reach out to ssr.solutions2021@gmail.com."
     }
   ];
 
@@ -269,11 +269,11 @@ Future<void> _refundPolicy(BuildContext context) async {
         ),
         content: ConstrainedBox(
           constraints: BoxConstraints(
-            maxHeight: MediaQuery.of(context).size.height * 0.7, // 👈 limits height to 70% of screen
+            maxHeight: MediaQuery.of(context).size.height * 0.7,
           ),
           child: SingleChildScrollView(
             child: Column(
-              mainAxisSize: MainAxisSize.min, // 👈 take min vertical space
+              mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
