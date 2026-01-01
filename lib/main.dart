@@ -32,8 +32,8 @@ class MyApp extends StatelessWidget {
               const Breakpoint(start: 901, end: double.infinity, name: DESKTOP),
             ],
           ),
-          home: const ErrorScreen(),
-          // home: const HomeScreen(),
+          //home: const ErrorScreen(),
+           home: const HomeScreen(),
         );
       }
     );
