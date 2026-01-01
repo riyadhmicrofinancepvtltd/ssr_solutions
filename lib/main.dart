@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 import 'package:sizer/sizer.dart';
 import 'package:ssr_solutions/helpers/color_helper.dart';
+import 'package:ssr_solutions/screens/error_screen.dart';
 import 'package:ssr_solutions/screens/home/home_screen.dart';
 
 void main() {
@@ -31,9 +32,11 @@ class MyApp extends StatelessWidget {
               const Breakpoint(start: 901, end: double.infinity, name: DESKTOP),
             ],
           ),
-          home: const HomeScreen(),
+          home: const ErrorScreen(),
+          // home: const HomeScreen(),
         );
       }
     );
   }
 }
+
